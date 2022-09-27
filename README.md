@@ -8,5 +8,10 @@
 <h3 align="center"><samp> 
 <details align="center">
 <br>
-[![TL's GitHub stats](https://github-readme-stats.vercel.app/api?taiisabug=taiisabug)](https://github.com/taiisabug/github-readme-stats)
+  <h3 align="center"><samp> 
+  <h3 align="left"><samp> ➝ Currently 16 years old in grade 11 at TAB
+  <h3 align="left"><samp> ➝ Interested in studying software engineering
+  <h3 align="left"><samp> ➝ Grade 10 on violin & ARCT in flute
+  <h3 align="left"><samp> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taiisabug&theme=earth&border_radius=10&background=6E4724"
 </details>
